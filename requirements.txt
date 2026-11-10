@@ -1,0 +1,6 @@
+prettytable==3.18.0
+psycopg==3.3.8
+psycopg2-binary==2.9.13
+SQLAlchemy==2.1.8
+typing_extensions==4.16.0
+wcwidth==0.9.4
